@@ -71,11 +71,11 @@ java -jar /Users/username/Documents/hygieia-core/target/core-3.1.1-SNAPSHOT.jar 
 ```
 - Copy key value and add the key to the api.properties file
 ```bash
-key=<your-generated-key>`
+key=<your-generated-key>
 ```
 - Copy key value and add the key to the bitbucket.properties file
 ```bash
-git.key=<your-generated-key>`
+git.key=<your-generated-key>
 ```
 
 
@@ -127,6 +127,6 @@ In order to keep Hygieia updating, all collectors tabs should be opened
 
 
 **Bitbucket** 
-- Add repo clone URL in Repo URL widget setting
+- Add repo clone URL in Repo URL in Bitbucket widget setting
 
 
